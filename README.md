@@ -1,6 +1,4 @@
-<a href="https://github-readme-stats.vercel.app/api?username=TelepathicGrunt&show_icons=true&theme=vue-dark%22%3E">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TelepathicGrunt&show_icons=true&include_all_commits=true&count_private=true&theme=react" />
-</a>
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TelepathicGrunt&show_icons=true&theme=tokyonight" /><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TelepathicGrunt&layout=compact&show_icons=true&theme=tokyonight" />
 
 
 ## Main repos:
