@@ -1,4 +1,3 @@
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TelepathicGrunt&show_icons=true&theme=tokyonight" /><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TelepathicGrunt&layout=compact&show_icons=true&theme=tokyonight" />
 
 
 ## Main repos:
